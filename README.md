@@ -1,14 +1,16 @@
-# html5 
+# html5 수업 (임춘석 limpi@frontu.co.kr 010-4917-1236 ) 
 
-작업환경 설치 :  https://github.com/limpi/html5/wiki 
+* 작업환경 설치 :  https://github.com/limpi/html5/wiki 
 
-교재 : HTML5+CSS3 웹표준의 정석 (저자:고경희, 출판사:이지스 퍼블리싱)
+* 교재 : HTML5+CSS3 웹표준의 정석 (저자:고경희, 출판사:이지스 퍼블리싱)
 
-교재 웹사이트 : http://easyspub.co.kr/20_Menu/BookView/119/PUB#tab01 (하단에 동영상강의)
+* 교재 웹사이트 : http://easyspub.co.kr/20_Menu/BookView/119/PUB#tab01 (하단에 동영상강의)
 
-소스 : https://drive.google.com/file/d/0B_pYzKnELUDDekdGYThLM2YweFE/view 
+* 소스 : https://drive.google.com/file/d/0B_pYzKnELUDDekdGYThLM2YweFE/view 
 
-강사가 만든 예제소스 보도록 만든 사이트 : http://limpi.dothome.co.kr
+* 강사가 만든 예제소스 보도록 만든 사이트 : http://limpi.dothome.co.kr
+
+* HTML에디터는 Visual Studio Code 사용,  웹브라우저는 Chrome 사용
 
 **************   HTML 참고 정보 **************
 
