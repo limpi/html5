@@ -1,4 +1,4 @@
-# html5 수업 (임춘석 limpi@frontu.co.kr 010-4917-1236 ) 
+# html5 수업 (임춘석 , mail:limpi@frontu.co.kr , mobile:010-4917-1236 ) 
 
 * 작업환경 설치 :  https://github.com/limpi/html5/wiki 
 
