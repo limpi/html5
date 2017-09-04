@@ -8,7 +8,7 @@
 
 * 소스 : https://drive.google.com/file/d/0B_pYzKnELUDDekdGYThLM2YweFE/view 
 
-* 강사가 만든 예제소스 보도록 만든 사이트 : <a href="http://limpi.dothome.co.kr" target="_new"> http://limpi.dothome.co.kr </a>
+* 강사가 만든 예제소스 보도록 만든 사이트 : http://limpi.dothome.co.kr
 
 * HTML에디터는 Visual Studio Code 사용,  웹브라우저는 Chrome 사용
 
