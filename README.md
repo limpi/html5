@@ -1,5 +1,8 @@
 # html5 
-https://github.com/limpi/html5/wiki 
+작업환경 설치 https://github.com/limpi/html5/wiki 
+교재 : HTML5+CSS3 웹표준의 정석 (저자:고경희, 출판사:이지스 퍼블리싱)
+교재 웹사이트 : http://easyspub.co.kr/20_Menu/BookView/119/PUB#tab01 (하단에 동영상강의)
+소스 : https://drive.google.com/file/d/0B_pYzKnELUDDekdGYThLM2YweFE/view 
 
 I. HTML5 개요
 ￼1. HTML (HyperText Markup Language)
