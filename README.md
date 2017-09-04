@@ -8,6 +8,10 @@
 
 소스 : https://drive.google.com/file/d/0B_pYzKnELUDDekdGYThLM2YweFE/view 
 
+강사가 만든 예제소스 보도록 만든 사이트 : http://limpi.dothome.co.kr
+
+**************   HTML 참고 정보 **************
+
 I. HTML5 개요
 ￼1. HTML (HyperText Markup Language)
      - World Wide Web에서 사용하는 마크업 언어
