@@ -12,6 +12,8 @@
 
 * HTML에디터는 Visual Studio Code 사용,  웹브라우저는 Chrome 사용
 
+* Visual Studio Code --> 확장기능: html preview 설치
+
 **************   HTML 참고 정보 **************
 
 I. HTML5 개요
